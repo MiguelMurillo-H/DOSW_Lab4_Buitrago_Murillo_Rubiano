@@ -1,2 +1,11 @@
-# DOSW_Lab4_Buitrago_Murillo_Rubiano
-Laboratorio 4 de DOSW - Agile: Scrum, Kanban and Estimation
+# DOSW Laboratorio 4 — TechCup
+
+## Integrantes
+- Sergio Daniel Buitrago Suancha
+- Miguel Angel Murillo Hurtado
+- Juanita Rubiano Fernandez
+
+## Objetivo
+Aplicar herramientas de planeación usando los marcos ágiles Scrum y Kanban,
+a partir de un caso de estudio práctico
+
