@@ -34,13 +34,14 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Estimación** | Pendiente |
 
 | Campo | Descripción |
-|------|-------------|
+|-------|-------------|
 | **IDENTIFICACIÓN** | SCRUM-9 |
 | **Título** | Pago de inscripción mediante PSE |
 | **Descripción** | Como capitán de equipo quiero pagar la tarifa de inscripción mediante la pasarela PSE para completar el proceso de registro. |
 | **Prioridad** | Media |
 | **Justificación de prioridad** | Es necesaria para completar la inscripción, pero depende de que el torneo y el registro de equipos ya existan; puede iterarse una vez el flujo base de inscripción esté funcionando. |
-| **Estimación** | Pendiente |
+| **Video** | [Ver video](https://youtu.be/MxA-YT__oT8?feature=shared) |
+
 
 | Campo | Descripción |
 |------|-------------|
@@ -148,3 +149,5 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **ID de la Historia de Usuario asociada** | SCRUM-10 |
 | **Descripción** | Construir el servicio que envía el reporte JSON de inscripciones y pagos a la Decanatura de forma automática. |
 | **Tareas requisito** | SCRUM-22 |
+
+
